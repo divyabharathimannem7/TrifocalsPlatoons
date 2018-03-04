@@ -4,5 +4,47 @@
     "phone":"9999999999",
     "photo":"4.jpg",
     "email":"divyabharathimannem1998@gmail.com"
-  }
+  },
+"education":[{
+    "course":"BTech(Computer Science and Engineering)",
+    "college":"Gudlavalleru Engineering college",
+    "data": ["2015-2019","9.4","JNTU-K"]
+},
+{
+   "course":"Intermediate(M.P.C)",
+   "college":"Sri Chaitanya Jr College",
+   "data": ["2013-2015","96"]
+
+},
+{
+  "course":"S.S.C",
+  "college":"Bhashyam Public School",
+  "data": ["2012-2013","95"]
 }
+],
+"skills": [
+  {
+    "name":"Languagesknown",
+    "info":["C","Java","python","TCL","javascript"]
+
+  },
+ {
+    "name":"Operating Systems",
+    "info": ["linux","windows","Unix"]
+  },
+  {
+    "name":"Libraries",
+    "info":["JQuery","Bootstrap"]
+  },
+  {
+    "name":"Databases",
+    "info":["SQL","PL/SQL"]
+  }
+],
+"achivevements":[
+{
+  "achives":["Directed a team","Attained APSSDC certification for python course"]
+}
+
+
+]}
